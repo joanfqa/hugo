@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  site:
+    container_name: hugo
+    image: klakegg/hugo:0.82.0-ext-alpine
+    command: server
+      - --bind=0.0.0.0
+    ports:
+      - "1313:1313"
+    volumes:
+      - ${PWD}:/src
+    
