@@ -1,5 +1,6 @@
 #baseURL: https://joanfqa.github.io/hugo/
-relativeURLs: true
+baseURL: /
+#relativeURLs: true
 title: Eureka Demo
 
 # Comment when installing using Hugo Modules
