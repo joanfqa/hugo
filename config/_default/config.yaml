@@ -1,5 +1,5 @@
 #baseURL: https://joanfqa.github.io/hugo/
-baseURL: /
+baseURL: ""
 #relativeURLs: true
 title: Eureka Demo
 
