@@ -1,5 +1,6 @@
-#baseURL: https://joanfqa.github.io/hugo/
-baseURL: ""
+baseURL: https://joanfqa.github.io/hugo/
+#baseURL: ""
+canonifyurls = true
 #relativeURLs: true
 title: Eureka Demo
 
