@@ -2,7 +2,7 @@ mainSections:
   - posts
 description: Eureka is a elegant and powerful theme for Hugo.
 
-repoURL:
+repoURL: https://joanfqa.github.io/hugo
 # If it is a Github repo, leave blank
 repoEditURL:
 
